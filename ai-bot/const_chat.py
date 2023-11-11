@@ -1,0 +1,4 @@
+OPENAPI_API_USERNAME = 'username'
+OPENAPI_API_PASSWORD = 'password'
+
+OPENAPI_API_KEY = 'sk-key'
